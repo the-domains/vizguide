@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[vizguide]]></title>
+        <description><![CDATA[vizguide]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 19:04:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><h2>The Project</h2><p>The objective of this
+memorandum is to summarize the current state of data visualization, both in
+transportation and outside of the industry. We will first provide examples and
+resources within a framework consistent with an ideal visualization development
+process. Second, we will summarize the outcomes and takeaways from interviews
+of subject matter experts. Third, we will provide an annotated bibliography
+documenting our broad set of visualization examples and resources.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ab4dffd7dad112a99c12ea703d6c4143befea0c.jpg"></article>]]></description>
+            <link>undefinedintroduction/index.html</link>
+            <guid isPermaLink="false">d40f7ed0-fb94-415e-83d3-abaecc7ad73a</guid>
+            <pubDate>Tue, 05 Jan 2016 19:04:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
